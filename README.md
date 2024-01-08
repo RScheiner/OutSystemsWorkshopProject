@@ -40,6 +40,9 @@ Here are a few screenshots of the project as it is, feel free to check the Scree
 ![Employee Home Page](Screenshots/Employee/UserHomePage.png)
 *Employee Homepage.*
 
+![Database Diagram](Screenshots/Database/database.png)
+*Database Diagram.*
+
 ![Feature 2](screenshots/feature2.png)
 
 ## Known Issue:
