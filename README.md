@@ -10,7 +10,11 @@ Efficiently manage and organize your company's car fleet with the Fleet Organize
 **How to Use:**
 Visit the live app to experience the simplicity of managing your car fleet. Navigate through the user-friendly interface to view vehicle details, make car requests, and streamline fleet operations.
 
+**Supported Languages:**
+This one will remain in Portuguese for the forseable future, might come back to it and add an option to change the app to english, but for now it is not a priority
+
 **App Url:**
+[Fleet App URL](./AppURL.txt)
 
 ## User Credentials
 
