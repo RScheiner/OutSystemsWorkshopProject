@@ -30,9 +30,12 @@ To access different areas of the Fleet Organizer App, you can use the following 
 
 ## Known Issue:
 **Issue 1: Information fields without a mask to prevent user to imput invalid formats**
+
   -Symptoms: For now there are no masks preventing some information formats to not follow its correct patern, allowing users to enter some invalid information.
   -Resolution: Im aware of the Input Masks Library from the Outsystems forge, and I intent on coming back to this project to fix this.
+
 **Issue 2: Cannot select from the database a car model that has already been registered**
+
   -Symptoms: Everytime you are going to register a new car into the database, you gotta do the whole model over, I ran into problems trying to use the models already registered into the database and couldnt solve it yet, when you are registering a new car, you gotta register everything related to it.
   -Resolution: Its a database manipulation issue, gotta get a better grasp on how to manipulate data from and into the database to fix this.
   
