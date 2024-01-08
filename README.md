@@ -28,7 +28,7 @@ To access different areas of the Fleet Organizer App, you can use the following 
 - Change passwords immediately if you suspect any security compromise.
 - Avoid using these credentials for any real-world applications.
 
-##K nown Issue:
+## Known Issue:
 **Issue 1: Information fields without a mask to prevent user to imput invalid formats**
   -Symptoms: For now there are no masks preventing some information formats to not follow its correct patern, allowing users to enter some invalid information.
   -Resolution: Im aware of the Input Masks Library from the Outsystems forge, and I intent on coming back to this project to fix this.
