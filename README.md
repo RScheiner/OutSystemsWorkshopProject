@@ -43,8 +43,6 @@ Here are a few screenshots of the project as it is, feel free to check the Scree
 ![Database Diagram](Screenshots/Database/database.png)
 *Database Diagram.*
 
-![Feature 2](screenshots/feature2.png)
-
 ## Known Issue:
 **Issue 1: Information fields without a mask to prevent user to imput invalid formats**
   - Symptoms: For now there are no masks preventing some information formats to not follow its correct patern, allowing users to enter some invalid information.
