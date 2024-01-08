@@ -31,6 +31,16 @@ To access different areas of the Fleet Organizer App, you can use the following 
 **Security Note:**
 - Change passwords immediately if you suspect any security compromise.
 - Avoid using these credentials for any real-world applications.
+  
+## Project Screenshots
+Here are a few screenshots of the project as it is, feel free to check the Screenshots folder to check on everything that the project current has and the how the database is structured
+![Admin Home Page](Screenshots/Admin/adminHomePage.png)
+*Admin Homepage.*
+
+![Employee Home Page](Screenshots/Employee/UserHomePage.png)
+*Employee Homepage.*
+
+![Feature 2](screenshots/feature2.png)
 
 ## Known Issue:
 **Issue 1: Information fields without a mask to prevent user to imput invalid formats**
